@@ -1,2 +1,2 @@
 # Games
-A few games for fun
+Snake.py is a very basic Snake game I made using Python.
